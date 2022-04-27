@@ -4,8 +4,6 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/leotvrzz/Codelandia-Challengers)
 ![GitHub followers](https://img.shields.io/github/followers/leotvrzz?label=Follow&style=social)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
-
 > Repositório criado para salvar os desafios feitos pela comunidade do discord Codelândia.
 
 ### Tecnologias Utilizadas
