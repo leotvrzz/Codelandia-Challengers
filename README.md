@@ -2,7 +2,6 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/leotvrzz/Codelandia-Challengers)
 ![GitHub language count](https://img.shields.io/github/languages/count/leotvrzz/Codelandia-Challengers)
-![GitHub top language](https://img.shields.io/github/languages/top/leotrzz/Codelandia-Challengers)
 ![GitHub followers](https://img.shields.io/github/followers/leotvrzz?label=Follow&style=social)
 
 <img src="exemplo-image.png" alt="exemplo imagem">
