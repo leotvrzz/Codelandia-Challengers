@@ -1,14 +1,20 @@
-# Codelandia-Challengers
+# Codelandia Challenges
 
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/leotvrzz/Codelandia-Challengers)
+![GitHub language count](https://img.shields.io/github/languages/count/leotvrzz/Codelandia-Challengers)
+![GitHub top language](https://img.shields.io/github/languages/top/leotrzz/Codelandia-Challengers)
+![GitHub followers](https://img.shields.io/github/followers/leotvrzz?label=Follow&style=social)
 
 <img src="exemplo-image.png" alt="exemplo imagem">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Repositório criado para salvar os desafios feitos pela comunidade do discord Codelândia.
+
+### Tecnologias Utilizadas
+- HTML 5
+- CSS 3
+- Javascript
 
 ### Desafios
 
-- [x] Desafio-01-Blog
+- [x] Desafio 01 - Blog
+- [ ] Desafio 02 - Jordan Shoes
